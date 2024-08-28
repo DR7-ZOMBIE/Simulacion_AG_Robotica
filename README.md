@@ -18,7 +18,6 @@ Este proyecto utiliza **algoritmos genéticos** para optimizar las trayectorias 
 ### 🌟 Tecnologías Utilizadas
 
 - **Python**: Lenguaje principal utilizado para el desarrollo del algoritmo.
-- **DEAP**: Biblioteca para implementar algoritmos genéticos en Python, facilitando la creación y evaluación de soluciones.
 - **Matplotlib**: Utilizada para visualizaciones y gráficos que muestran el rendimiento del algoritmo y las trayectorias del brazo robótico.
 - **NumPy**: Para cálculos numéricos avanzados, proporcionando eficiencia y velocidad en las operaciones matemáticas.
 
